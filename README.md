@@ -1,4 +1,9 @@
 ## Hi there 👋
+![Profile views](https://img.shields.io/badge/Profile%20views-0-blue)
+
+
+
+
 
 <!--
 **vihanvt/vihanvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
