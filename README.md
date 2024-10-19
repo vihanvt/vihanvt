@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Profile views](https://img.shields.io/badge/Profile%20views-0-blue)
+![](https://komarev.com/ghpvc/?username=vihanvt&color=green)
 
 
 
