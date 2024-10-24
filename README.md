@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=vihanvt)
-
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vihanvt)
 
 
 
