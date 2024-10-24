@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=vihanvt&color=green)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=vihanvt)
 
 
 
