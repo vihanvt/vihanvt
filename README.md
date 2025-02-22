@@ -1,5 +1,5 @@
 ##                                                     hey!
-![Time Spent](https://github-readme-stats.vercel.app/api/wakatime?username=vihanvt)
+![Time Spent](https://github-readme-stats.vercel.app/api/wakatime?username=vihanvt&theme=dark)
 
 
 
